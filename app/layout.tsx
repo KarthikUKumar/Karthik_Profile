@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "ShreyaAR Portfolio",
-  description: "Shreya's Portfolio",
+  title: "Karthik U Kumar - Portfolio",
+  description: "Karthik's Portfolio",
 };
 
 export default function RootLayout({
