@@ -17,6 +17,7 @@ export default function Experience() {
           Experience
         </h1>
 
+        <div className="space-y-6">
         <div className="bg-black bg-opacity-30 p-6 rounded-lg">
           <h2 className="text-2xl font-semibold mb-4 text-teal-400">Data Engineer at Lumen Technologies Pvt Ltd</h2>
           <p className="mb-2">Aug 2021 - Till Date</p>
@@ -32,6 +33,8 @@ export default function Experience() {
           <li>Trained over 150+ people on Snowflake architecture</li>
           </ul>
           </p>
+
+
         </div>
         <div className="bg-black bg-opacity-30 p-6 rounded-lg">
           <h2 className="text-2xl font-semibold mb-4 text-teal-400">Intern at Avishk Sustainable Solutions Pvt Ltd</h2>
@@ -44,6 +47,7 @@ export default function Experience() {
           <li>Optimized the system for efficient data handling, improving the user experience for farmers and dealers alike.</li>
           </ul>
           </p>
+        </div>
         </div>
       </div>
     </GradientBackground>
