@@ -43,7 +43,7 @@ export default function Home() {
             <div className="md:w-1/2 mb-8 md:mb-0">
               <h2 className="text-4xl font-bold mb-4">Hi There!</h2>
               <h3 className="text-4xl font-bold mb-4 text-teal-400">I&apos;m Karthik U Kumar</h3>
-              <p className="text-2xl mb-6">Data Consultant -I</p>
+              <p className="text-2xl mb-6">Data Consultant I</p>
               <div className="space-x-4">
                 <a href="/Karthik_Kumar_Data_Engineer_2025.pdf" download className="inline-block text-sm px-4 py-2 bg-black bg-opacity-30 hover:bg-opacity-50 transition-colors">
                   <FileDown className="w-4 h-4 inline-block mr-1" />
